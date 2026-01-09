@@ -19,7 +19,90 @@
 <a href="https://leetcode.com/https://leetcode.com/u/Ramkrishna1311/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/Ramkrishna1311/" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/aws" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/bootstrap" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/firebase" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=firebase" alt="firebase" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/flutter" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flutter" alt="flutter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jenkins" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=jenkins" alt="jenkins" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/kafka" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=kafka" alt="kafka" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/kubernetes" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=kubernetes" alt="kubernetes" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/photoshop" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=photoshop" alt="photoshop" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postman" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/spring" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=spring" alt="spring" width="40" height="40"/> </a></p>
+<h3 align="left">Languages and Tools</h3>
+
+<!-- Backend -->
+<h4>🧠 Backend</h4>
+<p align="left">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/spring">
+    <img src="https://skillicons.dev/icons?i=spring" width="40" height="40"/>
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/java">
+    <img src="https://skillicons.dev/icons?i=java" width="40" height="40"/>
+  </a>
+</p>
+
+<!-- Cloud & DevOps -->
+<h4>☁️ Cloud & DevOps</h4>
+<p align="left">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/aws">
+    <img src="https://skillicons.dev/icons?i=aws" width="40" height="40"/>
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/docker">
+    <img src="https://skillicons.dev/icons?i=docker" width="40" height="40"/>
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/kubernetes">
+    <img src="https://skillicons.dev/icons?i=kubernetes" width="40" height="40"/>
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/jenkins">
+    <img src="https://skillicons.dev/icons?i=jenkins" width="40" height="40"/>
+  </a>
+</p>
+
+<!-- Messaging -->
+<h4>📡 Messaging & Streaming</h4>
+<p align="left">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/kafka">
+    <img src="https://skillicons.dev/icons?i=kafka" width="40" height="40"/>
+  </a>
+</p>
+
+<!-- Databases -->
+<h4>🗄️ Databases</h4>
+<p align="left">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/mysql">
+    <img src="https://skillicons.dev/icons?i=mysql" width="40" height="40"/>
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb">
+    <img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40"/>
+  </a>
+</p>
+
+<!-- Frontend & Others -->
+<h4>🎨 Frontend & Tools</h4>
+<p align="left">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/html5">
+    <img src="https://skillicons.dev/icons?i=html" width="40" height="40"/>
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/css3">
+    <img src="https://skillicons.dev/icons?i=css" width="40" height="40"/>
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/javascript">
+    <img src="https://skillicons.dev/icons?i=js" width="40" height="40"/>
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/bootstrap">
+    <img src="https://skillicons.dev/icons?i=bootstrap" width="40" height="40"/>
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/flutter">
+    <img src="https://skillicons.dev/icons?i=flutter" width="40" height="40"/>
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/firebase">
+    <img src="https://skillicons.dev/icons?i=firebase" width="40" height="40"/>
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/git">
+    <img src="https://skillicons.dev/icons?i=git" width="40" height="40"/>
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/postman">
+    <img src="https://skillicons.dev/icons?i=postman" width="40" height="40"/>
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/linux">
+    <img src="https://skillicons.dev/icons?i=linux" width="40" height="40"/>
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/photoshop">
+    <img src="https://skillicons.dev/icons?i=photoshop" width="40" height="40"/>
+  </a>
+</p>
+
+
 
 
