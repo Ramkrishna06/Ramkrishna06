@@ -8,7 +8,7 @@
 
 - ⚡ Fun fact **I’m building today what my future self will thank me for—one project, one skill at a time.**
 
-- 📄 Know about my experiences **[[https://drive.google.com/file/d/1-5uuNqiojiQSeJW77IeyOpI7i8sTMo9z/view?usp=sharing](https://drive.google.com/file/d/1bNIMaDyQPgPafjvv4V-QjvLiXfR2QZvi/view?usp=sharing)]([https://drive.google.com/file/d/1-5uuNqiojiQSeJW77IeyOpI7i8sTMo9z/view?usp=sharing](https://drive.google.com/file/d/1bNIMaDyQPgPafjvv4V-QjvLiXfR2QZvi/view?usp=sharing))**
+- 📄 Know about my experiences **[[https://drive.google.com/file/d/1-5uuNqiojiQSeJW77IeyOpI7i8sTMo9z/view?usp=sharing](https://drive.google.com/file/d/1bNIMaDyQPgPafjvv4V-QjvLiXfR2QZvi/view?usp=sharing)])**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
