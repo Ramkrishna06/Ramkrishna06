@@ -1,6 +1,6 @@
 # Hi 👋, I'm Ramkrishna prajapati
 
-### Backend developer
+### Software Engineer
 
 - 🌱 I'm currently learning **🌱 Currently exploring AWS, Kafka, Docker, Kubernetes, and modern frontend development to build scalable, cloud-native applications.**
 
